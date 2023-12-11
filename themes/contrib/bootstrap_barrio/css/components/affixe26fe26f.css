@@ -1,0 +1,51 @@
+/**
+ * @file
+ * Styles for Bootstrap Barrio affix effect.
+ */
+
+.affix {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1035;
+  left: 0;
+}
+
+.send-code{
+  display: block;
+  float: left;
+  width: 45%;
+}
+
+#edit-send-code,
+#edit-send-code--2,
+#edit-send-code--3
+{
+  width: 55%;
+}
+fieldset.form-item-send-code label{
+  display: block;
+}
+.page-node-3 .highlighted{
+  display: none;
+}
+.page-node-3 .modal .modal-dialog .modal-content .modal-body .form form .form-group .form-text,
+.page-node-3 .header .header-top .form form .form-group .form-text {
+  font-size: 1rem;
+  color: #495057;
+}
+
+.loader {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.75) url(../../../../../www.marcorpsa.com/ee/images/loading2.html) no-repeat center center;
+  z-index: 10000;
+}
+.g-recaptcha>div {
+  margin: 0 auto;
+}

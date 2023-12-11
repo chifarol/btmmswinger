@@ -1,0 +1,696 @@
+Uri: https://btmmswingtrader.com/pay/1.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/pay/3.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/pay/4.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/pay/5.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/pay/bg.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/pay/btc1.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\btc1-2.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/pay/crypto3.html
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\crypto3.html
+Content Type: text/html
+
+Uri: https://btmmswingtrader.com/pay/eth1.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\eth1-2.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/pay/ltc1.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\ltc1-2.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/pay/script.js
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\script-2.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/pay/style.css
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\style-2.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/pay/usdt1.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\pay\usdt1-2.png
+Content Type: image/png
+
+
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\7.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/8.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\8.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/9.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\9.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/core/assets/vendor/jquery-once/jquery.once.min62cf62cf.js?v=2.2.3
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\assets\vendor\jquery-once\jquery.once.min62cf62cf.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/assets/vendor/jquery/jquery.minc011c011.js?v=3.5.1
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\assets\vendor\jquery\jquery.minc011c011.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/misc/ajaxb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\ajaxb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/misc/announceb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\announceb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/misc/debounceb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\debounceb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/misc/drupal.initb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\drupal.initb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/misc/drupalb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\drupalb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/misc/drupalSettingsLoaderb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\drupalSettingsLoaderb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/misc/formb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\formb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/misc/icons/000000/chevron-left.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\000000\chevron-left.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/icons/000000/chevron-right.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\000000\chevron-right.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/icons/000000/move.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\000000\move.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/icons/73b355/check.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\73b355\check.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/icons/787878/move.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\787878\move.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/icons/787878/twistie-down.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\787878\twistie-down.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/icons/787878/twistie-up.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\787878\twistie-up.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/icons/e29700/warning.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\e29700\warning.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/icons/e32700/error.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\e32700\error.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/icons/ffffff/twistie-down.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\ffffff\twistie-down.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/icons/ffffff/twistie-up.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\icons\ffffff\twistie-up.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/core/misc/loading-small.gif
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\loading-small.gif
+Content Type: image/gif
+
+Uri: https://btmmswingtrader.com/core/misc/progressb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\progressb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/misc/statesb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\statesb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/misc/throbber-active.gif
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\throbber-active.gif
+Content Type: image/gif
+
+Uri: https://btmmswingtrader.com/core/misc/throbber-inactive.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\throbber-inactive.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/core/misc/tree-bottom.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\tree-bottom.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/core/misc/tree.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\misc\tree.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/core/modules/responsive_image/js/responsive_image.ajaxb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\responsive_image\js\responsive_image.ajaxb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/ajax-progress.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\ajax-progress.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/align.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\align.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/autocomplete-loading.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\autocomplete-loading.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/clearfix.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\clearfix.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/container-inline.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\container-inline.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/details.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\details.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/fieldgroup.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\fieldgroup.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/hidden.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\hidden.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/item-list.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\item-list.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/js.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\js.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/nowrap.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\nowrap.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/position-container.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\position-container.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/progress.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\progress.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/reset-appearance.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\reset-appearance.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/resize.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\resize.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/sticky-header.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\sticky-header.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/system-status-countere26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\system-status-countere26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/system-status-report-counterse26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\system-status-report-counterse26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/system-status-report-general-infoe26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\system-status-report-general-infoe26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/tabledrag.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\tabledrag.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/tablesort.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\tablesort.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/core/modules/system/css/components/tree-child.modulee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\core\modules\system\css\components\tree-child.modulee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/image1.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\image1.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/image2.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\image2.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/image3.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\image3.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/index-2.html
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\index-2.html
+Content Type: text/html
+
+Uri: https://btmmswingtrader.com/libraries/bootstrap/css/bootstrap.mine26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\bootstrap\css\bootstrap.mine26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/libraries/bootstrap/js/bootstrap.bundle.mine26fe26f.js?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\bootstrap\js\bootstrap.bundle.mine26fe26f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/libraries/intl-tel-input/css/intlTelInput.mine26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\intl-tel-input\css\intlTelInput.mine26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/libraries/intl-tel-input/img/flags%402x.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\intl-tel-input\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/libraries/intl-tel-input/img/flags.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\intl-tel-input\img\flags.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/libraries/intl-tel-input/js/intlTelInput.mine26fe26f.js?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\intl-tel-input\js\intlTelInput.mine26fe26f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/libraries/intl-tel-input/js/utilse26fe26f.js?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\intl-tel-input\js\utilse26fe26f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/libraries/jquery.intl-tel-input/build/css/intlTelInput.mine26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\jquery.intl-tel-input\build\css\intlTelInput.mine26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/libraries/jquery.intl-tel-input/build/img/flags%402x.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\jquery.intl-tel-input\build\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/libraries/jquery.intl-tel-input/build/img/flags.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\jquery.intl-tel-input\build\img\flags.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/libraries/jquery.intl-tel-input/build/js/intlTelInput-jquery.min77367736.js?v=16.1.0
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\jquery.intl-tel-input\build\js\intlTelInput-jquery.min77367736.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/libraries/jquery.intl-tel-input/build/js/intlTelInput.min77367736.js?v=16.1.0
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\libraries\jquery.intl-tel-input\build\js\intlTelInput.min77367736.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/css/webform.element.details.togglee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\css\webform.element.details.togglee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/css/webform.element.messagee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\css\webform.element.messagee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/css/webform.forme26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\css\webform.forme26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/images/icons/info.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\images\icons\info.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/js/webform.element.details.saveb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\js\webform.element.details.saveb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/js/webform.element.details.toggleb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\js\webform.element.details.toggleb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/js/webform.element.messageb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\js\webform.element.messageb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/js/webform.element.telephoneb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\js\webform.element.telephoneb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/js/webform.form.submit_onceb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\js\webform.form.submit_onceb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/js/webform.formb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\js\webform.formb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/modules/contrib/webform/js/webform.statesb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\modules\contrib\webform\js\webform.statesb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/privacy-policy.html
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://btmmswingtrader.com/sites/spy-fx.com/files/2021-10/chart-spyfx.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\sites\spy-fx.com\files\2021-10\chart-spyfx.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/terms-and-conditions.html
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/affixe26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\affixe26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/booke26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\booke26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/commentse26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\commentse26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/contextuale26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\contextuale26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/feed-icone26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\feed-icone26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/fielde26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\fielde26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/headere26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\headere26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/helpe26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\helpe26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/iconse26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\iconse26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/image-buttone26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\image-buttone26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/item-liste26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\item-liste26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/list-groupe26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\list-groupe26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/node-previewe26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\node-previewe26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/nodee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\nodee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/pagee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\pagee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/progresse26fe26f.html?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\progresse26fe26f.html
+Content Type: text/html
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/search-forme26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\search-forme26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/shortcute26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\shortcute26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/sidebare26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\sidebare26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/site-footere26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\site-footere26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/skip-linke26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\skip-linke26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/tabledrage26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\tabledrage26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/tablee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\tablee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/tableselecte26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\tableselecte26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/tablesort-indicatore26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\tablesort-indicatore26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/tabse26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\tabse26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/ui-dialoge26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\ui-dialoge26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/ui.widgete26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\ui.widgete26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/usere26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\usere26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/vertical-tabse26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\vertical-tabse26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/components/viewse26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\components\viewse26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/css/printe26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\css\printe26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/images/feed.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\images\feed.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/images/help.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\images\help.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/js/affixb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\js\affixb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/js/globalb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\js\globalb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/css/colorse26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\css\colorse26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/css/custome26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\css\custome26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/css/iconse26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\css\iconse26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/css/stylee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\css\stylee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/css/templatee26fe26f.css?rejlw7
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\css\templatee26fe26f.css
+Content Type: text/css
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic-Bold.eot
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic-Bold.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic-Bold.ttf
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic-Bold.woff
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic-Bold.woff
+Content Type: font/woff
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic-Bold.woff2
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic-Boldd41dd41d.eot?
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic-Boldd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic.eot
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic.ttf
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic.ttf
+Content Type: font/ttf
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic.woff
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic.woff
+Content Type: font/woff
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothic.woff2
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothic.woff2
+Content Type: font/woff2
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/CenturyGothicd41dd41d.eot?
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\CenturyGothicd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/icons5b155b15.eot?n9ihd8
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\icons5b155b15.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/icons5b155b15.svg?n9ihd8
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\icons5b155b15.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/icons5b155b15.ttf?n9ihd8
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\icons5b155b15.ttf
+Content Type: font/ttf
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/fonts/icons5b155b15.woff?n9ihd8
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\fonts\icons5b155b15.woff
+Content Type: font/woff
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/68.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\68.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/69.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\69.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/70.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\70.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/blue-line-light.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\blue-line-light.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/bottom-bg.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\bottom-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/check.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\check.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/close.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\close.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/down.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\down.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/email-icon.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\email-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/h-i-w-bg.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\h-i-w-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/header-bg.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/logo.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\logo.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/robot-bg.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\robot-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/robot.jpg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\robot.jpg
+Content Type: image/jpeg
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/telegram-icon.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\telegram-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/twitter-icon.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\twitter-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/up.png
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\up.png
+Content Type: image/png
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/images/whatsapp-icon.svg
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\images\whatsapp-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/js/globalb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\js\globalb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/themes/contrib/bootstrap_barrio/Pipshunter/js/jquery.cookieb88fb88f.js?v=8.9.5
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\themes\contrib\bootstrap_barrio\Pipshunter\js\jquery.cookieb88fb88f.js
+Content Type: application/javascript
+
+Uri: https://btmmswingtrader.com/www.marcorpsa.com/ee/images/loading2.html
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\www.marcorpsa.com\ee\images\loading2.html
+Content Type: text/html
+
+Uri: https://unpkg.com/scrollreveal@4.0.9/dist/scrollreveal.js
+File Name: C:\Downloaded Web Sites\btmmswingtrader.com\scrollreveal@4.0.9\dist\scrollreveal.js
+Content Type: application/javascript
+

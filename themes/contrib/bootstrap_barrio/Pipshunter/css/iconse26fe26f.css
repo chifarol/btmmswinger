@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'icons';
+  src:  url('../fonts/icons5b155b15.eot');
+  src:  url('../fonts/icons5b155b15.eot') format('embedded-opentype'),
+    url('../fonts/icons5b155b15.ttf') format('truetype'),
+    url('../fonts/icons5b155b15.woff') format('woff'),
+    url('../fonts/icons5b155b15.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-instagram:before {
+  content: "\e900";
+}
+.icon-facebook:before {
+  content: "\e901";
+}
+.icon-telegram:before {
+  content: "\e902";
+}
+.icon-whatsapp:before {
+  content: "\e903";
+}

@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from btmmswingtrader.com/pay/crypto2.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Nov 2023 03:07:33 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Checkout</title>
+    <link rel="stylesheet" href="style-1.css">
+</head>
+<body>
+    <div class="container">
+       
+<h3>BTMM SWING TRADER - Crypto Payment</h3>
+        <p class="price-usd">$1000</p>
+        <p style="background-color: #cbdcf7; border-radius: 20px; padding: 10px 20px; ">Select the coin you want to pay with:</p>
+
+        <div class="grid">
+  <div class="coin" id="btc" onclick="openPopup('btc', 'timer-btc', 'paid-btn-btc', 'more-time-btn-btc', 'progress-ring-btc')">
+    <img src="btc1-1.png" alt="BTC Logo">
+    <p class="converted-price">BITCOIN</p>
+  </div>
+  <div class="coin" id="eth" onclick="openPopup('eth', 'timer-eth', 'paid-btn-eth', 'more-time-btn-eth', 'progress-ring-eth')">
+    <img src="eth1-1.png" alt="ETH Logo">
+    <p class="converted-price">ETHEREUM</p>
+  </div>
+  <div class="coin" id="ltc" onclick="openPopup('ltc', 'timer-ltc', 'paid-btn-ltc', 'more-time-btn-ltc', 'progress-ring-ltc')">
+    <img src="ltc1-1.png" alt="LTC Logo">
+    <p class="converted-price">LITECOIN</p>
+  </div>
+  <div class="coin" id="usdt" onclick="openPopup('usdt', 'timer-usdt', 'paid-btn-usdt', 'more-time-btn-usdt', 'progress-ring-usdt')">
+    <img src="usdt1-1.png" alt="USDT Logo">
+    <p class="converted-price">TETHER</p>
+  </div>
+</div>
+<br><br><br>
+            <a href="../index.html" target="_blank" class="cancel-btn">Cancel Payment </a>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/646d442f74285f0ec46d3fce/1h15d4nmg';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+    </div>
+    <div class="popup" id="popup-btc">
+        <div class="popup-content">
+  <button class="close-btn" onclick="closePopup('popup-btc')">Back</button> 
+  
+  <h3> Crypto Payment </h3>
+  
+      <div class="progress-ring">
+  <svg class="progress-ring__svg" width="50" height="50">
+    <circle class="progress-ring__circle" id="progress-ring-btc" stroke="green" stroke-width="4" fill="transparent" r="23" cx="25" cy="25"></circle>
+  </svg>
+  <span class="timer-icon" id="timer-btc">5:00</span>
+</div> Copy the address or scan the qr-code below to make a payment <br><br><br>
+  <img src="1-1.jpg" class="qr">
+  <br><br>
+  <fxwidget-er inverse="false" amount="1000" decimals="6" large="false" shadow="true" symbol="true" flag="true" changes="true" grouping="true" border="false" main-curr="USD" sel-curr="BTC" background-color="#ffffff" border-radius="0.5"></fxwidget-er><script async="" src="../../s.fx-w.io/widgets/exchange-rates/latest.js"></script>
+
+<br>
+         <br>  <div class="payment-details">
+  <br><hr><br>
+  
+  <div class="payment-details">
+   <p><strong>Address:</strong> <span id="btc-address">3Cy7ZStgGiBBMekpSXMeQkTjSQBbXEMab1</span>   <button onclick="copyAddress('btc-address')">Copy</button></p> 
+
+  </div><br>
+ 
+<hr>
+
+        </div>
+       <center>
+        <button class="btn" id="paid-btn-btc" style="display: none;">I have paid </button>
+<button class="btn" id="more-time-btn-btc" style="display: none;">I need more time </button></center> 
+    </div>
+    </div>
+    <!--eth-->
+    <div class="popup" id="popup-eth">
+        <div class="popup-content">
+  <button class="close-btn" onclick="closePopup('popup-eth')">Back</button> 
+  
+  <h3>  Crypto Payment </h3>
+  
+      <div class="progress-ring">
+  <svg class="progress-ring__svg" width="50" height="50">
+    <circle class="progress-ring__circle" id="progress-ring-eth" stroke="green" stroke-width="4" fill="transparent" r="23" cx="25" cy="25"></circle>
+  </svg>
+  <span class="timer-icon" id="timer-eth">5:00</span>
+</div> Copy the address or scan the qr-code below to make a payment <br><br><br>
+  <img src="4-1.jpg" class="qr">
+  <br>
+  <fxwidget-er inverse="false" amount="1000" decimals="6" large="false" shadow="true" symbol="true" flag="true" changes="true" grouping="true" border="false" main-curr="USD" sel-curr="ETH" background-color="#ffffff" border-radius="0.5"></fxwidget-er><script async="" src="../../s.fx-w.io/widgets/exchange-rates/latest.js"></script>
+
+<br>
+          <br>  <div class="payment-details">
+  
+  <div class="payment-details">
+   <strong>Address:</strong> <span id="btc-address">0x2d150ead9d2fb2b6cf85deff387c7cfc59d472b0</span>   <button onclick="copyAddress('btc-address')">Copy</button> 
+
+  </div><br>
+ 
+<hr>
+
+        </div>
+       <center>
+        <button class="btn" id="paid-btn-eth" style="display: none;">I have paid  </button>
+<button class="btn" id="more-time-btn-eth" style="display: none;">I need more time </button></center> 
+    </div>
+    </div>
+    <!--ltc-->
+     <div class="popup" id="popup-ltc">
+        <div class="popup-content">
+  <button class="close-btn" onclick="closePopup('popup-ltc')">Back</button> 
+  
+  <h3>  Crypto Payment </h3>
+  
+      <div class="progress-ring">
+  <svg class="progress-ring__svg" width="50" height="50">
+    <circle class="progress-ring__circle" id="progress-ring-ltc" stroke="green" stroke-width="4" fill="transparent" r="23" cx="25" cy="25"></circle>
+  </svg>
+  <span class="timer-icon" id="timer-ltc">5:00</span>
+</div> Copy the address or scan the qr-code below to make a payment <br><br><br>
+  <img src="5-1.jpg" class="qr">
+  <br>
+  <fxwidget-er inverse="false" amount="1000" decimals="6" large="false" shadow="true" symbol="true" flag="true" changes="true" grouping="true" border="false" main-curr="USD" sel-curr="LTC" background-color="#ffffff" border-radius="0.5"></fxwidget-er><script async="" src="../../s.fx-w.io/widgets/exchange-rates/latest.js"></script>
+
+<br>
+          <br>  <div class="payment-details">
+  <br><hr><br>
+  <div class="payment-details">
+   <strong>Address:</strong> <span id="btc-address">MH9ozjejt3EBoGxf9McNRE7xaNLirCiHvP</span>   <button onclick="copyAddress('btc-address')">Copy</button> 
+
+  </div><br>
+ 
+<hr>
+
+        </div>
+       <center>
+        <button class="btn" id="paid-btn-ltc" style="display: none;">I have paid  </button>
+<button class="btn" id="more-time-btn-ltc" style="display: none;">I need more time </button></center> 
+    </div>
+    </div>
+    <!--usdt-->
+    <div class="popup" id="popup-usdt">
+        <div class="popup-content">
+  <button class="close-btn" onclick="closePopup('popup-usdt')">Back</button> 
+  
+  <h3>  Crypto Payment </h3>
+  
+      <div class="progress-ring">
+  <svg class="progress-ring__svg" width="50" height="50">
+    <circle class="progress-ring__circle" id="progress-ring-usdt" stroke="green" stroke-width="4" fill="transparent" r="23" cx="25" cy="25"></circle>
+  </svg>
+  <span class="timer-icon" id="timer-usdt">5:00</span>
+</div> Copy the address or scan the qr-code below to make a payment <br><br><br>
+  <img src="3-1.jpg" class="qr">
+  
+  
+
+<br>
+          <hr><br>  <div class="payment-details">
+  <p><strong>Amount:</strong> <span id="ltc-amount">
+1000 USDT (TRC20)</span></p><br><hr><br>
+  <div class="payment-details">
+   <strong>Address:</strong> <span id="usdt-address">TPPaLzCLGTXydu2VtSNQuapP9DZuEJHuAE</span>   <button onclick="copyAddress('usdt-address')">Copy</button> 
+
+  </div><br>
+ 
+<hr>
+
+        </div>
+       <center>
+        <button class="btn" id="paid-btn-usdt" style="display: none;">I have paid </button>
+<button class="btn" id="more-time-btn-usdt" style="display: none;">I need more time </button></center> 
+    </div>
+    </div>
+    <script src="script-1.js"></script>
+</body>
+
+<!-- Mirrored from btmmswingtrader.com/pay/crypto2.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Nov 2023 03:07:33 GMT -->
+</html>
